@@ -13,6 +13,11 @@ This project follows a **real-world analytics workflow**
 > *Data Analysis with SQL using BigQuery*  
 
 ---
+## Inspired Analysis: Bike-Sharing Case Study
+
+Inspired by [this Medium article](https://medium.com/@codegnerdev/how-i-used-sql-alone-to-diagnose-growth-user-behavior-and-logistics-failures-in-a-bike-sharing-23e911586d99), 
+this project shows how **SQL alone** can analyze user behavior, demand patterns, station logistics, and platform growth to generate actionable insights.
+---
 
 ## 🧰 Tech Stack
 - **SQL (Standard SQL)**
