@@ -30,7 +30,7 @@ Before analysis, several validation checks were performed:
 ### Null Value Detection
 Identified missing values across ride duration, station names, and timestamps.
 
-![Null Values](screenshots/null_values_in_rides.PNG)
+![Null Values](screenshots/null-values_in_rides.PNG)
 
 ### False Starts
 Detected and excluded rides with unrealistic durations (e.g., negative or near-zero time).
@@ -47,7 +47,7 @@ Detected and excluded rides with unrealistic durations (e.g., negative or near-z
 - **Total Stations**
 - **Membership Distribution**
 
-![Total Counts](screenshots/total-counts.PNG)
+![Total Counts](screenshots/total_counts.PNG)
 ![Total Rides](screenshots/total_rides.PNG)
 ![Total Users](screenshots/total_users.PNG)
 ![Total Stations](screenshots/total_stations.PNG)
